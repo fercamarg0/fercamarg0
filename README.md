@@ -21,10 +21,8 @@
   <img align="center" alt="Fernando Camargo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Fernando Camargo-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fernando Camargo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Fernando Camargo-RESTful API" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg">
   <img align="center" alt="Fernando Camargo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fernando Camargo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Fernando Camargo-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
  <br>
 <div> 
