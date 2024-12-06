@@ -1,9 +1,9 @@
-## Olá, eu sou Fernando Camargo
+## Hello, I’m Fernando Camargo
 
-- 👨‍💻 Desenvolvedor Full Stack Sênior.
-- 🚀 Tenho conhecimento em HTML, PHP, CSS, SASS, JavaScript, TypeScript, jQuery, ReactJS, Next.js, Next API, Chakra UI, Tailwind CSS, Node.js, Express, RESTful API, MySQL, PostgreSQL, Firebase!
-- 📧 Contate-me por email: fernando_camargo2017@outlook.com
-- 📲 Contate-me no whatsapp: (19) 97164-2362
+	•	👨‍💻 Senior Full Stack Developer.
+	•	🚀 I have expertise in HTML, PHP, CSS, SASS, JavaScript, TypeScript, jQuery, ReactJS, Next.js, Next API, Chakra UI, Tailwind CSS, Node.js, Express, RESTful API, MySQL, PostgreSQL, Firebase!
+	•	📧 Contact me by email: fernando_camargo2017@outlook.com
+	•	📲 Contact me on WhatsApp: +55 (19) 97164-2362
 
  <!-- <div>
   <a href="https://github.com/fercamarg0">
