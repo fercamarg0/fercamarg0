@@ -1,8 +1,8 @@
-## I’m Fernando Camargo
+## Hi, I’m Fernando Camargo
 
-- Fullstack Senior Developer.
-- Skills: Next.js, React, React Hooks, Context API, Chakra UI, Tailwind CSS, Typescript, Javascript, Node.js, NestJS, AdonisJS, GraphQL, Prisma, Lucid, Postgres, MongoDB, AWS, GCP, DigitalOcean, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins, GitLab CI), Scrum, Kanban
-- 📧 You can reach me by email at: fernando_camargo2017@outlook.com
+-👨‍💻 Fullstack Senior Developer.
+- ⚡ Skills: Next.js, React, React Hooks, Context API, Chakra UI, Tailwind CSS, Typescript, Javascript, Node.js, NestJS, AdonisJS, GraphQL, Prisma, Lucid, Postgres, MongoDB, AWS, GCP, DigitalOcean, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins, GitLab CI), Scrum, Kanban
+- 📫 You can reach me by email at: fernando_camargo2017@outlook.com
 
  <!-- <div>
   <a href="https://github.com/fercamarg0">
